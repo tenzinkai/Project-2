@@ -1,6 +1,6 @@
-# well come to my portfolio
+# Welcome to my Portfolio
 ## Tools i have used
 - html
 - css
 
-Thanks for visiting my profile# My-Portfolio
+Thanks for visiting my profile
